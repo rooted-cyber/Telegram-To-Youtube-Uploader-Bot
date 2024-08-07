@@ -1,28 +1,28 @@
 import os
 
-class Config:hh
+class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "6914028314:AAG09vTHsH2No_ock1Oqs4x61KJgFEUDJHg"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "boy"
 
-    API_ID = ""
+    API_ID = "2944318"
 
-    API_HASH = ""
+    API_HASH = "e9746721493a910d201d898b4329da8f"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "491728614373-slqgjp7r9pm46s4vi995b669aedmtg8k.apps.googleusercontent.com"
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [1884618152]
 
-    VIDEO_DESCRIPTION = ""
+    VIDEO_DESCRIPTION = "ji"
 
-    VIDEO_CATEGORY = ""
+    VIDEO_CATEGORY = "hi"
 
-    VIDEO_TITLE_PREFIX = ""
+    VIDEO_TITLE_PREFIX = "kk"
 
-    VIDEO_TITLE_SUFFIX = ""
+    VIDEO_TITLE_SUFFIX = "jo"
     
     DEBUG = bool()
 
