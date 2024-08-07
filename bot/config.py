@@ -1,6 +1,6 @@
 import os
 
-class Config:
+class Config:hh
 
     BOT_TOKEN = ""
 
